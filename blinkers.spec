@@ -5,14 +5,6 @@ block_cipher = None
 
 
 a = Analysis(['C:/Projects/blinkers/blinkers.py'],
-             pathex=[],
-             binaries=[],
-             datas=[],
-             hiddenimports=[],
-             hookspath=[],
-             hooksconfig={},
-             runtime_hooks=[],
-             excludes=[],
              win_no_prefer_redirects=False,
              win_private_assemblies=False,
              cipher=block_cipher,
