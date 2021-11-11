@@ -1,4 +1,4 @@
-#https://www.codespeedy.com/create-a-text-editor-in-python/
+#A Text editor for extreamism researchers 
 
 # Importing Required libraries & Modules
 from tkinter import *
