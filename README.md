@@ -11,8 +11,7 @@ Blinkers is a simple UI based text editor that allows for filtering sensitive, v
 Blinkers currently supports the following features:
 - Open, Save, and Modify text files just as you'd expect from any text editor 📝
 - Highlighting words in a file using ```Ctrl+P``` or by supplying a newline separated file. 🎨
-- Change the saturation of non-highlighted text, limiting exposure 🖌️
-
+- Change the saturation of non-highlighted text, limiting exposure 🙈
 
 <p align="center"><img src="intro.gif" alt="The application working" width="400"/></p>
 
