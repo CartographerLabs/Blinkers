@@ -38,3 +38,6 @@ python3 blinkers.py
 -  **Add a string to the filter** - To add a string to highlight use ```Ctrl+P``` or the ```Edit``` menu. if a filter file is open the new string will be appended to the bottom of the file.
 -  **Remove string from the filter** - To remove a string from highlighting text use ```Ctrl+B``` or the ```Edit``` menu. If a filter file is being used it will remove it from the file.
 -  **Increase and Decrease colour saturation** - The colour of non highlighted text can be modified with ```Alt+U``` and ```Alt+D``` or the ```Edit``` menu.
+
+## Thanks
+The base text editor codebase can be found here. https://www.codespeedy.com/create-a-text-editor-in-python/
