@@ -20,7 +20,7 @@ Blinkers currently supports the following features:
 ## Installation and Running 
 Currently Blinkers requires Python to run, however, in the future will be bundled into an executable/ binary for Windows and Debian. 
 
-```bash
+```shell
 python3 blinkers.py
 ```
 
@@ -34,7 +34,7 @@ python3 blinkers.py
 -  **Paste** - To paste text in the application use the ```Ctrl+V``` or the ```Edit``` menu.
 -  **Undo** - To undo modifications in the application use the ```Ctrl+U``` or the ```Edit``` menu.
 -  **Add filter file** - A filter file is a new line separated text file where each line contains a word that should be highlighted in the text editor. To do this use ```Ctrl+F``` or the ```Edit``` menu.
--  **Remove filters **- To remove all current filters/ highlights use ```Ctrl+R``` or the ```Edit``` menu.
--  **Add a string to the filter **- To add a string to highlight use ```Ctrl+P``` or the ```Edit``` menu. if a filter file is open the new string will be appended to the bottom of the file.
+-  **Remove filters** - To remove all current filters/ highlights use ```Ctrl+R``` or the ```Edit``` menu.
+-  **Add a string to the filter** - To add a string to highlight use ```Ctrl+P``` or the ```Edit``` menu. if a filter file is open the new string will be appended to the bottom of the file.
 -  **Remove string from the filter** - To remove a string from highlighting text use ```Ctrl+B``` or the ```Edit``` menu. If a filter file is being used it will remove it from the file.
 -  **Increase and Decrease colour saturation** - The colour of non highlighted text can be modified with ```Alt+U``` and ```Alt+D``` or the ```Edit``` menu.
