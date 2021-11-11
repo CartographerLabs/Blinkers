@@ -2,7 +2,7 @@
     <img width=100% src="banner.png">
   </a>
 </p>
-<p align="center"> 📚 A text editor for extremism researchers, allowing to filter violent and sensitive text 💻</p>
+<p align="center"> 📚 A text editor for extremism researchers, allowing for filtering of violent and sensitive text 💻</p>
 
 <br>
 
