@@ -1,6 +1,6 @@
 name: Package Application with Pyinstaller
 
-on:
+on: 
   push:
     branches: [ master ]
   pull_request:
